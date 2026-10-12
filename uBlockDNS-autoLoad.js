@@ -8,8 +8,8 @@
 // @run-at       document-idle
 // @license      MIT
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=ublockdns.com
-// @downloadURL  https://github.com/MAAB-FW/uBlockDNS-autoLoad/raw/main/uBlockDNS-autoLoad.js
-// @updateURL    https://github.com/MAAB-FW/uBlockDNS-autoLoad/raw/main/uBlockDNS-autoLoad.js
+// @downloadURL  https://github.com/MAAB-FW/uBlockDNS-autoLoad/raw/main/uBlockDNS-autoLoad.user.js
+// @updateURL    https://github.com/MAAB-FW/uBlockDNS-autoLoad/raw/main/uBlockDNS-autoLoad.user.js
 // ==/UserScript==
 
 (() => {

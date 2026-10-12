@@ -13,7 +13,7 @@
 ## 📥 Installation
 
 1. Install [Violentmonkey](https://violentmonkey.github.io/get-it/) or [Tampermonkey](https://www.tampermonkey.net/).
-2. Click here to **[Install Script](https://github.com/MAAB-FW/uBlockDNS-autoLoad/raw/main/uBlockDNS-autoLoad.js)**.
+2. Click here to **[Install Script](https://github.com/MAAB-FW/uBlockDNS-autoLoad/raw/main/uBlockDNS-autoLoad.user.js)**.
 3. Visit [uBlockDNS](https://ublockdns.com/).
 4. Done! The script automatically clicks the Load more button when detected.
 
